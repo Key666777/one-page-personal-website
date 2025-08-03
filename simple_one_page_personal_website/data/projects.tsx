@@ -4,21 +4,21 @@ import { Project } from "@/app/types/projects";
 
 export const projects: Project[] = [
   {
-    title: "Project Name 1",
+    title: "2D Maze Game",
     description:
-      "A comprehensive description of your amazing project, highlighting the key features, technologies used, and the impact it made.",
+      "This is a self-developed 2D maze game where players must guide a character through challenging paths to reach the exit. Along the way, enemies armed with weapons and bullets create intense obstacles. The game tests the player’s patience, quick thinking, and strategic intelligence under pressure. It's fast-paced, smart, and addictive..",
     image: "🚀",
-    tags: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    tags: ["Python #PythonGame #2DMaze #MazeGame"],
     github: "https://github.com/yourusername/project1",
     live: "https://project1.vercel.app",
   },
   {
-    title: "Project Name 2",
+    title: " YMHA: The correlation between narcissism and mental disorders within teenagers",
     description:
-      "Another fantastic project that demonstrates your skills and creativity. Explain the challenges you faced and how you solved them.",
+      "It's a five week summer program, where I worked with a team of 5 for 5 weeks to figure out the direact damage of narccism within teenagers. We searched massive secondary information and collected a small-scale primary data in details.",
     image: "🎨",
-    tags: ["Python", "Machine Learning", "TensorFlow", "API"],
-    github: "https://github.com/yourusername/project2",
+    tags: ["StudyEssay", "Presentation", "MentalHealth", "PrimaryData"],
+    github: "https://github.com/Key666777/Correaltion-between-narcissism-and-mental-disorders",
     live: "https://project2.vercel.app",
   },
   {
