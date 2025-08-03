@@ -4,6 +4,6 @@ const firstName = "Fred";
 const lastName = "Fang";
 const personalSlogan = "Building amazing digital experiences, one project at a time.";
 const heroSectionText = `A passionate high school student who loves creating
-innovative solutions and building amazing digital experiences. Specialized in [Your Specialization].`;
+innovative solutions and building amazing digital experiences. Specialized in gaming, and basketball .`;
 
 export { firstName, lastName, personalSlogan, heroSectionText };
