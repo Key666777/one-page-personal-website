@@ -9,7 +9,7 @@ export const projects: Project[] = [
       "This is a self-developed 2D maze game where players must guide a character through challenging paths to reach the exit. Along the way, enemies armed with weapons and bullets create intense obstacles. The game tests the player’s patience, quick thinking, and strategic intelligence under pressure. It's fast-paced, smart, and addictive..",
     image: "🚀",
     tags: ["Python #PythonGame #2DMaze #MazeGame"],
-    github: "https://github.com/yourusername/project1",
+    github: "https://github.com/Key666777/2D-Maze-.git",
     live: "https://project1.vercel.app",
   },
   {
@@ -18,7 +18,7 @@ export const projects: Project[] = [
       "It's a five week summer program, where I worked with a team of 5 for 5 weeks to figure out the direact damage of narccism within teenagers. We searched massive secondary information and collected a small-scale primary data in details.",
     image: "🎨",
     tags: ["StudyEssay", "Presentation", "MentalHealth", "PrimaryData"],
-    github: "https://github.com/Key666777/Correaltion-between-narcissism-and-mental-disorders",
+    github: "https://github.com/Key666777/Correaltion-between-narcissism-and-mental-disorders.git",
     live: "https://project2.vercel.app",
   },
   {
